@@ -21,6 +21,8 @@ Easy fix? https://wiki.tox.chat/users/import_export
 - [ ] Add offline messaging capability. 
 If user offline, add to db and attempt to resend every 5 seconds for 5 mins, drop to every 15 seconds after that. Drop down lower later? Consider traffic etc. and power implications. 
 
+- [ ] Add Back button to chats. Take back to chat list.  
+
 # Tox Reference Implementation for Android [TRIfA]
 
 ~~This is not a Reference Client, it's c-toxcore for Android.~~<br>
