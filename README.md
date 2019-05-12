@@ -12,6 +12,9 @@ https://twigstechtips.blogspot.com/2013/07/android-enable-noise-cancellation-in.
 Need to look though the code to work out what's going on and how to implement. 
 Easy fix? https://wiki.tox.chat/users/import_export
 
+- [ ] Add offline messaging capability. 
+If user offline, add to db and attempt to resend every 5 seconds for 5 mins, drop to every 15 seconds after that. Drop down lower later? Consider traffic etc. and power implications. 
+
 # Tox Reference Implementation for Android [TRIfA]
 
 ~~This is not a Reference Client, it's c-toxcore for Android.~~<br>
