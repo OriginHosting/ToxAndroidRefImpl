@@ -1,3 +1,16 @@
+This is our test branch of the below project. Things we'll be working on specifically: 
+
+[] Fixing Android pie notification issue. 
+Seems to be Android wide. Multiple threads over the internet about notifications missing in multiple apps. Suspected solution is to build against SDK28. 
+https://stackoverflow.com/questions/52827915/notification-is-not-showing-in-android-9
+
+[] Fix noise dampening/cancellation issues in video chat (echoes on the line). 
+We aim to use hardware noise cancelling as per the article below. 
+https://twigstechtips.blogspot.com/2013/07/android-enable-noise-cancellation-in.html
+
+[] Import existing TOX accounts. 
+Need to look though the code to work out what's going on and how to implement. 
+
 # Tox Reference Implementation for Android [TRIfA]
 
 ~~This is not a Reference Client, it's c-toxcore for Android.~~<br>
