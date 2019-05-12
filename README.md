@@ -10,6 +10,7 @@ https://twigstechtips.blogspot.com/2013/07/android-enable-noise-cancellation-in.
 
 - [ ] Import existing TOX accounts. 
 Need to look though the code to work out what's going on and how to implement. 
+Easy fix? https://wiki.tox.chat/users/import_export
 
 # Tox Reference Implementation for Android [TRIfA]
 
