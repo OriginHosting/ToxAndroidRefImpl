@@ -53,6 +53,8 @@ Compile in Android Studio
 
 <br><br>
 
+Had to make native-audio.jni first. Needed cmake and ninja installed on OS. Then build module. 
+
 Development Snapshot Version (Android)
 =
 the latest Development Snapshot can be downloaded from CircleCI, [here](https://circleci.com/api/v1/project/zoff99/ToxAndroidRefImpl/latest/artifacts/0/$CIRCLE_ARTIFACTS/ToxAndroidRefImpl.apk?filter=successful&branch=zoff99%2Fdev003)
